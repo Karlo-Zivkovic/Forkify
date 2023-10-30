@@ -15,3 +15,7 @@ Practicing Typescript with other popular react libraries.
 
 - <b>npm install</b>
 - <b>npm run dev</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/HfIU03q.png" height="80%" width="80%" alt="pizza recipe"/>
